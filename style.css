@@ -1,0 +1,416 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+  }
+.section1{
+    background-color: black;
+    color: cornsilk;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    height: 40px;
+}
+.li1{
+    margin-left: 23px;
+    color:white;
+}
+.li2{
+    margin-left: 30px;
+    color: #030016
+    }
+
+.section2{
+    vertical-align: middle;
+    height: 100%;
+    width:100%;
+}
+.con{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    padding: auto;
+}
+.logo img{
+    width: 6%;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.cover{
+    background-image: url(images/oppo.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size:100%;
+
+}
+.cover p{
+    padding-left: 705px;
+}
+.title{
+    padding-left: 596px;
+    margin-top: 2px;
+    padding-top: 153px;
+}
+.title1{
+    padding-left: 662px;
+}
+.phone1 img{
+    width: 520px;
+    height: 500px;
+    padding-left: 90px;
+}
+
+.phone1 .description1 button{
+    background-color: #030016;
+    color: white;
+}
+.des1{
+    padding-left: 90px;
+}
+.des12{
+    padding-left:90px;
+}
+.des13{
+    padding-left:90px;
+}
+.des14{
+    padding-left: 90px;
+}
+.section3{
+    width: 100%;
+    height: 500px;
+    margin-top: 400px;
+}
+.sec3-head{
+    display: flex;
+    justify-content:space-between;
+}
+.smartphone h1{
+    padding-left: 90px;
+}.more{
+    padding-right:90px;
+}
+.phone2 img{ 
+    width: 840px;
+    height: 500px;
+    padding-right: 90px;
+}
+
+.phones{
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone2 .description2 button{
+    background-color: #030016;
+    color: white;
+}
+
+.section4{
+    height: 1000px;
+    margin-top: 542px;
+    background-color: ivory;
+    width: 100%;
+
+}
+.iot{
+    display: flex;
+    justify-content: space-between;
+
+}
+.iothead h1{
+    padding-left: 90px;
+    margin-top: 15px;
+}
+.viewio a{
+    padding-right: 100px;
+}
+.iot{
+    font-size: larger;
+}
+.iotproducts{
+    display: flex;
+    justify-content: space-around;
+
+}
+.product1 img{
+    width: 857px;
+    padding-left: 90px;
+    padding-top: 90px;
+    padding-right: 90px;
+    height: 600px;
+}
+
+    
+.product2 img{
+    width: 531px;
+    padding-top: 90px;
+    padding-left: 90px;
+    height: 600px;
+}
+.des31 h2 {
+    padding-left:90px;
+}
+.des32 p{
+    padding-left:90px;
+}
+.des33 p{
+    padding-left:90px;
+}
+.des3-bu{
+    padding-left:90px;
+    padding-top:12px;
+}
+.des3-bu button{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 25px;
+}
+
+.des41 h2{
+    padding-left:90px;
+}
+.des42{
+    padding-left:90px;
+}
+.des4-bu button{
+    margin-left: 90px;
+}
+.des4-bu button{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 25px;
+}
+
+
+
+.section5{
+    height: 700px;
+    margin-top: 266px;
+    width:100%;
+}
+.tecnoltitle h1{
+    padding-left: 90px;
+}
+.tecnoimg{
+    display:flex;
+    justify-content:space-between;
+
+
+}
+.tech1 img{
+    width: 520px;
+    height: 500px;
+    padding-left: 90px;
+}
+
+.tech2 img{
+    width: 900px;
+    height: 500px;
+    padding-right: 110px;
+    
+}
+.des1{
+    padding-left: 90px;
+}
+.des1 a{
+    text-decoration: none;
+    color: #000;
+
+}
+.des2 a{
+    text-decoration: none;
+    color: #000;
+}
+.tech1 .des1 button{
+    background-color: #030016;
+    color: white;
+    width: 80px;
+    height: 25px;
+}
+.tech2 .des2 button{
+    background-color: #030016;
+    color: white;
+    width: 80px;
+    height: 25px;
+}
+.section6{
+    height: 700px;
+    margin-top: 266px;
+    width:100%;  
+    background-color: #e8e8e8;
+}
+.about-main{
+    display:flex;
+    justify-content:space-between; 
+}
+.about img{
+    width: 450px;
+    height: 200px;
+    cursor: pointer;
+    padding-left: 90px;
+}
+.about1 img{
+    width: 450px;
+    height: 200px;
+    cursor: pointer;
+    
+}
+.about2 img{
+    width: 450px;
+    height: 200px;
+    cursor: pointer;
+    padding-right: 90px;
+}
+.desc1 h2{
+    padding-left:90px;
+}
+.desc1 a{
+    text-decoration:none;
+    color: #000;
+}
+.desc2 a{
+    text-decoration: none;
+    color: #000;
+}
+.desc3 a{
+    text-decoration: none;
+    color: #000;
+}
+.universe{
+    margin-bottom:10px;
+    
+}
+.icon i{
+    padding-left: 660px;
+    padding-top: 80px;
+    font-size: 100px;
+}
+.show{
+    padding-left: 661px;
+}
+
+footer{
+height: 700px;
+margin-top: 266px;
+width:100%;
+background-color: black;
+}
+.smartphones h3{
+    color: whitesmoke;
+    font-weight: 200;
+    padding:10px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 12px;
+}
+.smartphones li{
+    color: whitesmoke;
+    padding:10px;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    
+}
+.footer-main{
+    display:flex; 
+    margin-left: 100px;
+    line-break: 50px;
+}
+.IoT-Products h3{
+    color: whitesmoke;
+    font-weight: 200;
+    padding:10px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 12px;
+}
+.IoT-Products li{
+    color: whitesmoke;
+    list-style: none;
+    padding:10px;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+}
+.Support h3{
+    color: whitesmoke;
+    font-weight: 200;
+    padding:10px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 12px;
+}
+.Support li{
+    color: whitesmoke;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+    
+    list-style: none;
+    padding:10px;
+}
+.our-story h3{
+    color: whitesmoke;
+    font-weight: 200;
+    padding:10px;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 12px;
+}
+.our-story li{
+    color: whitesmoke;
+    padding:10px;
+    list-style: none;
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+}
+.legal h6{
+    color: whitesmoke;
+    padding:10px;
+    
+
+}.legal{
+    display:flex;
+    padding: 10px;
+   
+    
+    
+}.legal4 p{
+    color: whitesmoke;
+}
+.social-icons a{
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    padding: 10px;
+    color: white;
+    
+}
+.email a{
+    color: white;
+}
+.social{
+    margin-left: 100px;
+}
+.IoT-Products{
+    padding-left: 40px;
+}
+.Support{
+    padding-left: 40px; 
+}
+.our-story{
+    padding-left: 40px;
+}
+.legal{
+    padding-left: 84px;
+}
